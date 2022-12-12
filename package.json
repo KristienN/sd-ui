@@ -1,6 +1,6 @@
 {
   "name": "frontend",
-  "homepage": "https://u200258.gitlab.io/sentence-diagramming-ui",
+  "homepage": ".",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
